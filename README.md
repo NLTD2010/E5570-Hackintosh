@@ -34,7 +34,7 @@ Dell Latitude E5570 Hackintosh Project
 - Remap USB after installed macOS
 - If you use macOS Big Sur 11.0 - 11.2.3, you need to enable XHCIPortLimit quirks in config.
 
-## Download: (update soon)
+## Download:
 - Wallpaper: https://github.com/quynkk1/E5570-Hackintosh/blob/main/wallpaper/Wallpaper.jpg
 - EFI: Release section.
 
