@@ -17,6 +17,7 @@ Dell Latitude E5570 Hackintosh Project
 - Brightness control
 - Sleep when lid closed
 - Charging
+- CPU Optimized
 - USB Port (3 Ports, 3.0)
 - LAN Port
 - Wireless and Bluetooth
@@ -25,7 +26,7 @@ Dell Latitude E5570 Hackintosh Project
 - HDMI (with audio output), VGA Port
 
 ## What's not working or BUGs?
-- Trackpad: Show not detected in System Preferences but you can still move your cursor. I'm rewriting VoodooPS2 (from Acidanthera, SkyrilHD) to make it works perfectly.
+- Trackpad: Show not detected in System Preferences but you can still move your cursor and gesture with 2 fingers.
 - HDMI: Sleep and wake your laptop before use it.
 - Realtek SD-Card: It will stop working after sleep, you need to restart your hacks to make it works again.
 
@@ -33,6 +34,7 @@ Dell Latitude E5570 Hackintosh Project
 - You need to add your wireless and bluetooth drivers/kexts manually depend on your hardware
 - Remap USB after installed macOS
 - If you use macOS Big Sur 11.0 - 11.2.3, you need to enable XHCIPortLimit quirks in config.
+- For CPU Optimization, use CPUFriend.
 
 ## Download:
 - Wallpaper: https://github.com/quynkk1/E5570-Hackintosh/blob/main/wallpaper/Wallpaper.jpg
@@ -40,5 +42,5 @@ Dell Latitude E5570 Hackintosh Project
 
 ## Thanks:
 - Apple for macOS.
-- Acidanthera and other devs for many kext I used.
 - SergeySlice for Clover Bootloader.
+- Acidanthera and other devs for many kext I used.
