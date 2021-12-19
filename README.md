@@ -10,8 +10,10 @@ Dell Latitude E5570 Hackintosh Project
 - 3 Ports of USB, VGA, HDMI, SDCard (Realtek)
 - Audio Codec: ALC293
 
+## Bootloader:
+- Supported 2 types of bootloader: OpenCore (0.7.6) + Clover (R5142)
+
 ## What's working?
-- Using Clover Bootloader R5142 with lastest driver and kexts
 - Support macOS Mojave / Catalina / Big Sur / Monterey
 - QE/CI: 1536MB VRAM
 - Brightness control
