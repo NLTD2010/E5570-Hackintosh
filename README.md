@@ -19,7 +19,7 @@ Dell Latitude E5570 Hackintosh Project
 - Brightness control
 - Sleep when lid closed
 - Charging
-- CPU Optimized
+- CPU Power Optimized
 - USB Port (3 Ports, 3.0)
 - LAN Port
 - Wireless and Bluetooth
@@ -45,4 +45,4 @@ Dell Latitude E5570 Hackintosh Project
 ## Thanks:
 - Apple for macOS.
 - SergeySlice for Clover Bootloader.
-- Acidanthera and other devs for many kext I used.
+- Acidanthera for OpenCore, Lilu, WEG, ... and other devs for many kext I used.
