@@ -36,7 +36,7 @@ Dell Latitude E5570 Hackintosh Project
 - You need to add your wireless and bluetooth drivers/kexts manually depend on your hardware
 - Remap USB after installed macOS
 - If you use macOS Big Sur 11.0 - 11.2.3, you need to enable XHCIPortLimit quirks in config.
-- For CPU Optimization, use (CPUFriend)[https://dortania.github.io/OpenCore-Post-Install/universal/pm.html#using-cpu-friend].
+- For CPU Optimization, use this guide: [CPUFriend](https://dortania.github.io/OpenCore-Post-Install/universal/pm.html#using-cpu-friend).
 
 ## Download:
 - Wallpaper: https://github.com/quynkk1/E5570-Hackintosh/blob/main/wallpaper/Wallpaper.jpg
