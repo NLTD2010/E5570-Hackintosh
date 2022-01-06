@@ -11,7 +11,7 @@
 - Owner manual: see [here](https://www.dell.com/support/manuals/en-vn/latitude-e5570-laptop/latitudee5570_pub/technical-specifications?guid=guid-0a7316e6-829d-4032-a895-78f2e17a2b7f&lang=en-us)
 
 ## Bootloader 🛠:
-- Supported 2 types of bootloader: OpenCore (0.7.6) + Clover (R5142)
+- Supported 2 types of bootloader: OpenCore (0.7.6) + Clover (R5143)
 - Lastest kext (5/1/2022)
 
 ## What's working? ✅
