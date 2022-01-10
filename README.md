@@ -29,7 +29,7 @@
 - HDMI (with audio output), VGA Port
 
 ## What's not working ❌ or BUGs ⚠️?
-- Trackpad: Show not detected in System Preferences but you can still move your cursor and gesture with 2 fingers.
+- Trackpad: You can only change trackpad speed.
 P/S: We are working for enabling native Trackpad System Preferences with max 4-finger
 If you want to test, see [here](https://github.com/SkyrilHD/VoodooPS2-ALPS/discussions)
 - HDMI: Sleep and wake your laptop before use it.
