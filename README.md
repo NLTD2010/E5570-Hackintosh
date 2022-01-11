@@ -2,7 +2,7 @@
 ![Picture](https://github.com/quynkk1/E5570-Hackintosh/blob/main/wallpaper/screenshot.png)
 
 ## Specification 💻 :
-- CPU + GPU: Core i3-6100U with HD 620
+- CPU + GPU: Core i3-6100U with HD 520
 - Memory: 12GB
 - LAN: I219
 - Wireless/Bluetooth: Intel AC 8260
@@ -35,8 +35,9 @@ If you want to test, see [here](https://github.com/SkyrilHD/VoodooPS2-ALPS/discu
 - HDMI: Sleep and wake your laptop before use it.
 - Realtek SD-Card: It will stop working after sleep, you need to restart your hacks to make it works again.
 - Time is incorrect after sleep (In Fixing)
-
+- Remember to random your serial number
 ## Note 📄:
+- Create usb install MacOs guide [here](https://dortania.github.io/OpenCore-Install-Guide/installer-guide)
 - For fully guide for installing macOS on this machine, click [here]()
 - You need to add your wireless and bluetooth drivers/kexts manually depend on your hardware
 - Remap USB after installed macOS
